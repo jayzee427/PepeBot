@@ -880,17 +880,17 @@ async def _(event):
 
         animation_chars = [
         
-            "**Heroku Connecting To Latest Github Build (PepeBot)**",
-            "**Build started by user** @NeoMatrix90",
-            "**Deploy** `535a74f0` **by user** @NeoMatrix90",
+            "**Heroku Connecting To Latest Github Build (HitBot)**",
+            "**Build started by user** @CallMe_HIT",
+            "**Deploy** `535a74f0` **by user** @CallMe_HIT",
             "**Restarting Heroku Server...**",
             "**State changed from up to starting**",    
             "**Stopping all processes with SIGTERM**",
             "**Process exited with** `status 143`",
             "**Starting process with command** `python3 -m stdborg`",
             "**State changed from starting to up**",
-            "__INFO:PepeBot:Logged in as 557667062__",
-            "__INFO:PepeBot:Successfully loaded all plugins__",
+            "__INFO:HitBot:Logged in as 557667062__",
+            "__INFO:HitBot:Successfully loaded all plugins__",
             "**Build Succeeded**"
 
  ]
@@ -936,7 +936,7 @@ async def _(event):
             "⬜⬜⬜⬜⬜⬜⬜\n⬜⬛⬛⬛⬛⬛⬜\n⬜⬛⬜⬜⬜⬛⬜\n⬜⬛⬜⬛⬜⬛⬜\n⬜⬛⬜⬜⬜⬛⬜\n⬜⬛⬛⬛⬛⬛⬜\n⬜⬜⬜⬜⬜⬜⬜",
             "⬛⬛⬛⬛⬛\n⬛⬜⬜⬜⬛\n⬛⬜⬛⬜⬛\n⬛⬜⬜⬜⬛\n⬛⬛⬛⬛⬛",
             "⬜⬜⬜\n⬜⬛⬜\n⬜⬜⬜",
-            "[👉🔴👈](t.me/kirito6969)"
+            "[👉🔴👈](t.me/CallMe_HIT)"
 
  ]
 
@@ -1021,7 +1021,7 @@ async def _(event):
             "👁👁\n  👄  =====> Abey Ja Na Randi",
             "👁👁\n  👅  =====> Abey Ja Na Bhosdk",    
             "👁👁\n  💋  =====> Abey Ja Na Chutiye",
-            "👁👁\n  👄  =====> Hi All, How Are You Guys..."
+            "👁👁\n  👄  =====> Abey saale!"
         ]
 
         for i in animation_ttl:
@@ -1052,7 +1052,7 @@ async def _(event):
         animation_chars = [
         
             "`Randi Founded`",
-            "`Your Mom Is Going To Fuck By\n` @NeoMatrix90",
+            "`Your Mom Is Going To Fuck By\n` @CallMe_HIT",
             "`Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\n Spanking Your Mom's Ass\nCumming On Pussy\n\nAlmost Done... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "` Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\n Spanking Your Mom's Ass\nCumming On Pussy\n\nAlmost Done... \n\nFucked Percentage... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "` Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\n Spanking Your Mom's Ass\nCumming On Pussy\n\nAlmost Done... \n\nFucked Percentage... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",    
@@ -1061,7 +1061,7 @@ async def _(event):
             "` Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\n Spanking Your Mom's Ass\nCumming On Pussy\n\nAlmost Done... \n\nFucked Percentage... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "` Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\n Spanking Your Mom's Ass\nCumming On Pussy\n\nAlmost Done... \n\nFucked Percentage... 84%\n█████████████████████▒▒▒▒ `",
             "` Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\n Spanking Your Mom's Ass\nCumming On Pussy\n\nAlmost Done... \n\nFucked Percentage... 100%\n█████████████████████████ `",
-            "`Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\nCumming On Pussy\n\nYour mom get Pregnant\n\nResult: Now You Have 1 More Younger Brother\nAnd His Father Name Is` @NeoMatrix90"
+            "`Fucking Your Mom\n\n\nYour Mom's Pussy Get Red\nCumming On Pussy\n\nYour mom get Pregnant\n\nResult: Now You Have 1 More Younger Brother\nAnd His Father Name Is` @CallMe_HIT"
         ]
 
         for i in animation_ttl:
@@ -1195,7 +1195,7 @@ async def _(event):
             "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
             "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
             "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-            "⬜⬜⬜⬜⬜\n⬜ [PEPEBOT](https://github.com/prono69/PepeBot/) ⬜\n⬜⬜⬜⬜⬜"
+            "⬜⬜⬜⬜⬜\n⬜ [HITBOT](https://github.com/Sohails75/PepeBot/) ⬜\n⬜⬜⬜⬜⬜"
 
  ]
 
@@ -1278,7 +1278,7 @@ async def _(event):
         "`Cracked... 100%\n█████████Cracked ███████████ `",
         "`I'd :- *************@gmail.com\n\nPassword:-**********`",   
 
- "`Account Cracked ..\n\n Pay 9$ to @kirito6969 for I'd and Password`"
+ "`Account Cracked ..\n\n Pay $69 to @CallMe_HIT for I'd and Password`"
         ]
 
         for i in animation_ttl:
