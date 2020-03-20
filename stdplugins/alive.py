@@ -9,7 +9,7 @@ from uniborg.util import admin_cmd
 async def _(event):
     if event.fwd_from:
         return
-    mentions = "`ABEY SAALE! Zinda hu mai! Maaf karna gusse me idhar udhar nikal jata hu...\n\nTelethon version: 69.69.69\nPython: 6.9\nUser: █▬█ █ ▀█▀ \n\nJohnny bhaiya ka number : +916969696969\nSexbase Status: Telegram Sexbases functioning normally!`"
+    mentions = "`ABEY SAALE! Zinda hu mai! Maaf karna gusse me idhar udhar nikal jata hu...\n\nTelethon version: 69.69.69\nPython: 6.9\nPeru User: █▬█ █ ▀█▀ \n\nJohnny bhaiya ka number : +916969696969\nSexbase Status: Telegram Sexbases functioning normally!\nI am ꔠ༏ⲧᏰ❍ⲧ swagat toh karo hamara... `"
     chat = await event.get_input_chat()
     async for x in borg.iter_participants(chat, filter=ChannelParticipantsAdmins):
         mentions += f""
