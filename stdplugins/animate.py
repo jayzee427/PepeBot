@@ -306,7 +306,7 @@ async def _(event):
 
             "😢",
 
-            "‎**Repo by @NeoMatrix90**",
+
  
             "😁",
 
@@ -316,9 +316,9 @@ async def _(event):
 
             "😢",
 
-            "‎github.com/prono69/PepeBot",
 
-            "__**RePe GeNg Is BeHiNd You....Get Ready....**__"
+
+            "__**Johnny Sins is behind You....Get Ready....**__"
 
         ]
 
@@ -543,7 +543,7 @@ async def _(event):
             "**(8) Change Chat Info: ☑️**",
             "**(8) Change Chat Info: ✅**",
             "**Permission Granted Successfully**",
-            "**pRoMoTeD SuCcEsSfUlLy bY: @NeoMatrix90**"
+            "**PrOmOtEd SuCcEsSfUlLy bY: @CallMe_HIT **"
 
  ]
 
@@ -729,7 +729,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 999$ and a Plate of Biriyani To this Nigga @NeoMatrix90 To Remove This Hack`"
+            "`Targeted Noobs' Account Hacked...\n\nPay 999$ and a Plate of Biriyani To this Nigga @CallMe_HIT To Remove This Hack`"
         ]
 
         for i in animation_ttl:
