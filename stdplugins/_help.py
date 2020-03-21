@@ -23,11 +23,11 @@ async def _(event):
         s_help_string = borg._plugins[splugin_name].__doc__
     else:
         s_help_string = "****:"
-    help_string = """@UniBorg ( **Custom Built By** @NeoMatrix90 ) \n**Verified Account**: ✅\n**DESCRIPTION**: https://magicalpepewillguideyou.com\n
+    help_string = """@UniBorg ( **Custom Built By** @CallMe_HIT ) \n**Verified Account**: ✅\n**DESCRIPTION**: https://magicalpepewillguideyou.com\n
 Pithun {}
 Talethrun {}
  
-**Custom Built Fork**: https://github.com/prono69/PepeBot """.format(
+**Custom Built Fork**: https://github.com/Sohails75/PepeBot """.format(
         sys.version,
         __version__
     )
