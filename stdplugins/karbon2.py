@@ -62,7 +62,7 @@ async def carbon_api(e):
    await e.client.send_file(
          e.chat_id,
          file,
-         caption="Karbon2 by [@NeoMatrix90](https://www.github.com/prono69/PepeBot)",
+         caption="Karbon2 
          force_document=True,
          reply_to=e.message.reply_to_msg_id,
          )
